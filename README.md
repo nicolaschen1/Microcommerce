@@ -5,7 +5,6 @@ Mini e-commerce system using a microservice architecture.
 I use Java Spring Boot to develop an e-commerce system using a microservice architecture. This microservice will manage the products for sale, it must be able to add, delete, update and display the products. It will expose a REST API that proposes all CRUD database operations (Create, Read, Update, Delete).
 
 The component is composed of:
-
 - Product class that shows the characteristics of a product (name, price, etc.)
 - A controller that responds to GET, PUT, POST and DELETE requests and does the necessary operations.
 - the Data Acccess Object (DAO) to communicate with the database
