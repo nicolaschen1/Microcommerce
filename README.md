@@ -12,6 +12,8 @@ The component is composed of:
 ## Java Spring Boot
 Spring Boot is a framework that facilitates the development of Spring-based applications by providing tools to obtain a packaged application in jar.
 
+![image1](https://github.com/nicolaschen1/Microcommerce/blob/master/spring-boot-490x257.png)
+
 ## Requirements
 - Jackson: parses JSON and links Java classes to JSON content.
 - Tomcat
